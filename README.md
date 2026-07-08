@@ -1,65 +1,68 @@
 <p align="center">
-  <img src="github_banner.png" alt="Mohammed Zaghloul Banner" width="100%" />
+  <img src="github_banner.png" alt="Mohammed Zaghloul Banner" width="850" />
 </p>
 
-Backend Developer passionate about building scalable ASP.NET Core applications using Clean Architecture, Entity Framework Core, SQL Server, and modern software design principles.
+# Hi 👋 I'm Mohammed Zaghloul
 
-### 📬 Contact
-[Portfolio](https://github.com/mohammedzaghloul/MZ.Dev.PortfolioAPI) • [LinkedIn](https://linkedin.com/in/mohammedzaghloul) • [Email](mailto:mohammedzaghlouldev@gmail.com)
+Backend Developer specializing in ASP.NET Core & Clean Architecture.
+
+📍 Egypt  
+💼 Open to Backend .NET Opportunities
+
+<p align="left">
+  <a href="https://linkedin.com/in/mohammedzaghloul">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohammedzaghlouldev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/mohammedzaghloul/MZ.Dev.PortfolioAPI">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
 ### 🛠️ Tech Stack
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- 🟣 **C# / .NET**
+- 🟣 **ASP.NET Core**
+- 🟣 **SQL Server**
+- 🟣 **Angular**
+- 🟣 **Docker**
 
 ---
 
 ### 📌 Featured Projects
 
-🏠 **[Aqar Platform](https://github.com/mohammedzaghloul/MZ.AqarPlatform)**
-Real Estate Platform built with ASP.NET Core.
-- Clean Architecture & Domain-Driven Design (DDD)
-- EF Core, SQL Server, and Identity
-- JWT Authentication & Auditing
-- [Repository](https://github.com/mohammedzaghloul/MZ.AqarPlatform)
-
-🔐 **[Central Authentication](https://github.com/mohammedzaghloul/CentralAuthNotificationPlatform-)**
-OAuth2 & OpenID Connect Authentication Server.
-- Centralized JWT generation
-- Background email dispatching using Hangfire
-- [Repository](https://github.com/mohammedzaghloul/CentralAuthNotificationPlatform-)
-
-🎓 **[School Management](https://github.com/mohammedzaghloul/CentralAuthNotificationPlatform-)**
-Attendance, QR Code, and Face Recognition System.
-- SignalR WebSockets for real-time notifications
-- QR Code & Face Recognition API integrations
-- [Repository](https://github.com/mohammedzaghloul/CentralAuthNotificationPlatform-)
-
-🛒 **[Ecommerce API](https://github.com/mohammedzaghloul/MZ.Dev.Talabat)**
-Scalable Backend API System implementing modern design patterns.
-- Generic Repository Pattern & Unit of Work
-- Redis caching layer & Stripe Payment integration
-- [Repository](https://github.com/mohammedzaghloul/MZ.Dev.Talabat)
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [🏠 Aqar Platform](https://github.com/mohammedzaghloul/MZ.AqarPlatform) | Real Estate Platform built with Clean Architecture, DDD, and Auditing. | ASP.NET Core 10, EF Core, SQL Server, JWT |
+| [🔐 Central Auth](https://github.com/mohammedzaghloul/CentralAuthNotificationPlatform-) | OAuth2 & OpenID Connect Auth Server with background email dispatching. | .NET 10, Hangfire, SQL Server |
+| [🎓 School Management](https://github.com/mohammedzaghloul/MZ.Dev.School.Api) | QR Code and Face Recognition Attendance System with real-time chat. | .NET, SignalR, QR & Face APIs |
+| [🛒 Ecommerce API](https://github.com/mohammedzaghloul/MZ.Dev.Talabat) | Scalable E-commerce API with Generic Repository and Stripe integration. | .NET, Redis, EF Core, Stripe |
+| [🌐 Portfolio API](https://github.com/mohammedzaghloul/MZ.Dev.PortfolioAPI) | Backend API with CV uploading, parsing, and projects management. | .NET, EF Core, SQL Server |
+| [🛍️ E-Commerce MVC](https://github.com/mohammedzaghloul/MohammedZaghloul) | Full-stack E-commerce MVC app with catalog, cart, and admin dashboard. | .NET Core MVC, EF Core, SQL Server |
 
 ---
 
-### 📈 GitHub Stats
+### 🌱 Currently Exploring
+- Microservices
+- Event-Driven Architecture
+- Kubernetes
+- Distributed Systems
+
+---
+
+### 📈 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedzaghloul&show_icons=true&theme=dark" alt="Mohammed's GitHub Stats" height="150" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedzaghloul&theme=dark" alt="Mohammed's Streak" height="150" />
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedzaghloul&layout=compact&theme=dark" alt="Top Languages" height="150" />
 </p>
 
----
-
-### 🌱 Currently Learning
-- Microservices & Event-Driven Architecture
-- Docker Containerization & Kubernetes Orchestration
-- Advanced API Security (OAuth2 / OIDC)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedzaghloul&theme=react-dark" alt="Mohammed's Activity Graph" width="100%" />
+</p>
