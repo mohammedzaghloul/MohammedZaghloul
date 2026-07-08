@@ -64,6 +64,7 @@ Professional Portfolio and CV Parsing Backend API.
 ### 📬 Connect with Me
 - 💼 LinkedIn: [Mohammed Zaghloul](https://linkedin.com/in/mohammedzaghloul)
 - 📧 GitHub: [@mohammedzaghloul](https://github.com/mohammedzaghloul)
+- 📧 Email: [mohammedzaghlouldev@gmail.com](mailto:mohammedzaghlouldev@gmail.com)
 
 ---
 
