@@ -47,80 +47,14 @@ I'm a Backend Developer passionate about designing secure, scalable, and maintai
 `Git` `GitHub` `Visual Studio` `Postman`
 
 ---
+## 🚀 Featured Projects
 
-# 🚀 Featured Projects
-
-### 🏠 Aqar Platform
-
-Modern Real Estate Platform built using ASP.NET Core and Clean Architecture.
-
-**Highlights**
-
-- Property Management
-- JWT Authentication
-- ASP.NET Identity
-- Soft Delete & Auditing
-- Clean Architecture
-
-**Stack**
-
-`ASP.NET Core` `EF Core` `SQL Server` `JWT`
-
-🔗 https://github.com/mohammedzaghloul/MZ.AqarPlatform
-
----
-
-### 🔐 Central Authentication Platform
-
-Centralized Authentication & Authorization Server.
-
-**Highlights**
-
-- OAuth2 & OpenID Connect
-- OpenIddict
-- JWT Tokens
-- Hangfire Background Jobs
-- Email Verification
-
-**Stack**
-
-`ASP.NET Core` `OpenIddict` `Hangfire` `SQL Server`
-
-🔗 https://github.com/mohammedzaghloul/CentralAuthNotificationPlatform-
-
----
-
-### 🎓 School Management System
-
-Comprehensive School Management Platform.
-
-**Highlights**
-
-- Attendance System
-- QR Code Attendance
-- Face Recognition
-- SignalR Real-Time Chat
-- Grades Management
-
-**Stack**
-
-`ASP.NET Core` `SignalR` `SQL Server`
-
-🔗 https://github.com/mohammedzaghloul/MZ.Dev.School.Api
-
----
-
-### 🛒 Ecommerce API
-
-Scalable E-commerce Backend API.
-
-**Highlights**
-
-- Generic Repository
-- Unit of Work
-- Specification Pattern
-- Redis Cache
-- Stripe Integration
+| Project | Highlights |
+|---------|------------|
+| 🏠 **[Aqar Platform](https://github.com/mohammedzaghloul/MZ.AqarPlatform)** | Real Estate Platform • Clean Architecture • JWT Authentication • ASP.NET Identity • Soft Delete & Auditing |
+| 🔐 **[Central Authentication](https://github.com/mohammedzaghloul/CentralAuthNotificationPlatform-)** | OAuth2 • OpenID Connect • OpenIddict • Hangfire • Email Verification |
+| 🎓 **[School Management](https://github.com/mohammedzaghloul/MZ.Dev.School.Api)** | Attendance • QR Code • Face Recognition • SignalR • Grades Management |
+| 🛒 **[Ecommerce API](https://github.com/mohammedzaghloul/MZ.Dev.Talabat)** | Repository Pattern • Unit of Work • Specification Pattern • Redis • Stripe |
 
 **Stack**
 
