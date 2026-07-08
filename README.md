@@ -33,7 +33,7 @@ Backend Developer specializing in ASP.NET Core & Clean Architecture.
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | [🏠 Aqar Platform](https://github.com/mohammedzaghloul/MZ.AqarPlatform) | Real Estate Platform built with Clean Architecture, DDD, and Auditing. | ASP.NET Core 10, EF Core, SQL Server, JWT |
-| [🔐 Central Auth](https://github.com/mohammedzaghloul/CentralAuthNotificationPlatform-) | OAuth2 & OpenID Connect Auth Server with background email dispatching. | .NET 10, Hangfire, SQL Server |
+| [🔐 Central Auth](https://github.com/mohammedzaghloul/CentralAuthNotificationPlatform-) | OAuth2 & OpenID Connect Auth Server with OpenIddict and Hangfire. | .NET 10, OpenIddict, Hangfire, SQL Server |
 | [🎓 School Management](https://github.com/mohammedzaghloul/MZ.Dev.School.Api) | QR Code and Face Recognition Attendance System with real-time chat. | .NET, SignalR, QR & Face APIs |
 | [🛒 Ecommerce API](https://github.com/mohammedzaghloul/MZ.Dev.Talabat) | Scalable E-commerce API with Generic Repository and Stripe integration. | .NET, Redis, EF Core, Stripe |
 | [🌐 Portfolio API](https://github.com/mohammedzaghloul/MZ.Dev.PortfolioAPI) | Backend API with CV uploading, parsing, and projects management. | .NET, EF Core, SQL Server |
@@ -46,6 +46,7 @@ Backend Developer specializing in ASP.NET Core & Clean Architecture.
 - Event-Driven Architecture
 - Kubernetes
 - Distributed Systems
+- CQRS & MediatR
 
 ---
 
@@ -54,5 +55,5 @@ Backend Developer specializing in ASP.NET Core & Clean Architecture.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedzaghloul&show_icons=true&theme=dark" alt="Mohammed's GitHub Stats" height="150" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedzaghloul&layout=compact&theme=dark" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedzaghloul&layout=compact&theme=dark" alt="Top Languages" height="150" />
 </p>
