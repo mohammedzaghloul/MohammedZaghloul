@@ -6,7 +6,7 @@ Backend Developer specializing in ASP.NET Core & Clean Architecture.
 💼 Open to Backend .NET Opportunities
 
 <p align="left">
-  <a href="https://linkedin.com/in/mohammedzaghloul">
+  <a href="https://linkedin.com/in/mohammedzaghlouldev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mohammedzaghlouldev@gmail.com">
