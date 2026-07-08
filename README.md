@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="github_banner.png" alt="Mohammed Zaghloul Banner" width="850" />
-</p>
-
 # Hi 👋 I'm Mohammed Zaghloul
 
 Backend Developer specializing in ASP.NET Core & Clean Architecture.
@@ -53,16 +49,10 @@ Backend Developer specializing in ASP.NET Core & Clean Architecture.
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedzaghloul&show_icons=true&theme=dark" alt="Mohammed's GitHub Stats" height="150" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedzaghloul&theme=dark" alt="Mohammed's Streak" height="150" />
-  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedzaghloul&layout=compact&theme=dark" alt="Top Languages" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedzaghloul&theme=react-dark" alt="Mohammed's Activity Graph" width="100%" />
 </p>
