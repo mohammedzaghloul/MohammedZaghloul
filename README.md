@@ -1,9 +1,8 @@
 # Hi 👋 I'm Mohammed Zaghloul
 
-Backend Developer passionate about building scalable, secure, and high-performance backend systems with **ASP.NET Core** and **Clean Architecture**.
+Backend Developer specializing in **ASP.NET Core**, **Clean Architecture**, and building scalable backend systems.
 
-📍 Egypt  
-💼 Open to Backend .NET Opportunities
+📍 Egypt &nbsp;&nbsp;•&nbsp;&nbsp; 💼 Open to Backend .NET Opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedzaghlouldev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohammedzaghlouldev@gmail.com)
@@ -13,98 +12,87 @@ Backend Developer passionate about building scalable, secure, and high-performan
 
 ## 🚀 About Me
 
-- 💻 Backend Developer specialized in **ASP.NET Core**.
-- 🏗️ Passionate about **Clean Architecture**, **DDD**, and scalable backend design.
-- 🔐 Experienced in Authentication & Authorization using **JWT**, **ASP.NET Identity**, and **OpenIddict**.
-- ⚡ Interested in Real-Time Applications, API Security, and High Performance APIs.
+I'm a Backend Developer passionate about designing secure, scalable, and maintainable Web APIs using **ASP.NET Core** and modern software architecture. I enjoy building authentication systems, real-time applications, and enterprise-level backend solutions.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend
+**Languages**
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF_Core-68217A?style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+`C#` `SQL` `JavaScript` `TypeScript`
 
-### Architecture
+**Backend**
 
-- Clean Architecture
-- Repository Pattern
-- Unit Of Work
-- Specification Pattern
-- SOLID Principles
-- Dependency Injection
+`ASP.NET Core` `Web API` `Entity Framework Core` `LINQ`
 
-### Technologies
+**Architecture**
 
-- JWT Authentication
-- ASP.NET Identity
-- OpenIddict
-- SignalR
-- Hangfire
-- Redis
-- Stripe Integration
-- RESTful APIs
+`Clean Architecture` `DDD` `Repository Pattern` `Unit of Work` `SOLID`
 
-### Frontend
+**Authentication**
 
-- Angular
-- HTML
-- CSS
-- Bootstrap
+`JWT` `ASP.NET Identity` `OpenIddict` `OAuth2` `OpenID Connect`
 
-### Tools
+**Technologies**
 
-- Git
-- GitHub
-- Docker (Learning)
-- Visual Studio
-- Postman
+`SignalR` `Hangfire` `Redis` `Stripe`
+
+**Frontend**
+
+`Angular` `HTML` `CSS` `Bootstrap`
+
+**Tools**
+
+`Git` `GitHub` `Visual Studio` `Postman`
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏠 Aqar Platform
+### 🏠 Aqar Platform
 
-Modern Real Estate Platform built with ASP.NET Core.
+Modern Real Estate Platform built using ASP.NET Core and Clean Architecture.
 
 **Highlights**
 
-- Clean Architecture
-- Domain-Driven Design (DDD)
+- Property Management
 - JWT Authentication
 - ASP.NET Identity
 - Soft Delete & Auditing
-- SQL Server & EF Core
+- Clean Architecture
+
+**Stack**
+
+`ASP.NET Core` `EF Core` `SQL Server` `JWT`
 
 🔗 https://github.com/mohammedzaghloul/MZ.AqarPlatform
 
 ---
 
-## 🔐 Central Authentication Platform
+### 🔐 Central Authentication Platform
 
-Centralized Authentication Server using OAuth2 & OpenID Connect.
+Centralized Authentication & Authorization Server.
 
 **Highlights**
 
+- OAuth2 & OpenID Connect
 - OpenIddict
-- OAuth2 / OIDC
 - JWT Tokens
-- Client Registration
 - Hangfire Background Jobs
 - Email Verification
+
+**Stack**
+
+`ASP.NET Core` `OpenIddict` `Hangfire` `SQL Server`
 
 🔗 https://github.com/mohammedzaghloul/CentralAuthNotificationPlatform-
 
 ---
 
-## 🎓 School Management System
+### 🎓 School Management System
 
-Comprehensive school management platform.
+Comprehensive School Management Platform.
 
 **Highlights**
 
@@ -114,21 +102,29 @@ Comprehensive school management platform.
 - SignalR Real-Time Chat
 - Grades Management
 
+**Stack**
+
+`ASP.NET Core` `SignalR` `SQL Server`
+
 🔗 https://github.com/mohammedzaghloul/MZ.Dev.School.Api
 
 ---
 
-## 🛒 Ecommerce API
+### 🛒 Ecommerce API
 
-Scalable Backend API following modern architecture.
+Scalable E-commerce Backend API.
 
 **Highlights**
 
 - Generic Repository
-- Unit Of Work
+- Unit of Work
 - Specification Pattern
-- Stripe Payments
 - Redis Cache
+- Stripe Integration
+
+**Stack**
+
+`ASP.NET Core` `Redis` `EF Core` `Stripe`
 
 🔗 https://github.com/mohammedzaghloul/MZ.Dev.Talabat
 
@@ -138,9 +134,9 @@ Scalable Backend API following modern architecture.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohammedzaghloul&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammedzaghloul&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedzaghloul&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedzaghloul&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -158,17 +154,6 @@ Scalable Backend API following modern architecture.
 - Event-Driven Architecture
 - Docker
 - Kubernetes
-- Distributed Systems
-
----
-
-## 🎯 2026 Goals
-
-- Build production-ready Microservices.
-- Master Distributed Systems.
-- Deep dive into Cloud-Native Development.
-- Contribute to Open Source.
-- Land a Backend .NET Engineer role.
 
 ---
 
