@@ -1,0 +1,26 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule: # Runs once a day at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual run in the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Profile Summary Cards
+        uses: vn747/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: ${{ github.repository_owner }}
+          theme: dark

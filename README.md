@@ -66,6 +66,8 @@ Microservices • Event-Driven Architecture • Kubernetes
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedzaghloul&show_icons=true&theme=dark)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mohammedzaghloul&layout=compact&theme=dark)
+<p align="center">
+  <img src="profile-summary-card-output/dark/classic.svg" alt="Classic Stats" height="150" />
+  &nbsp;&nbsp;
+  <img src="profile-summary-card-output/dark/stats.svg" alt="Detailed Stats" height="150" />
+</p>
