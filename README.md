@@ -12,6 +12,26 @@ Backend Engineer specializing in ASP.NET Core and scalable backend systems.
 ### 🛠️ Tech Stack
 C# • ASP.NET Core • EF Core • SQL Server • Angular • Docker
 
+<details>
+  <summary><b>📊 View Detailed Skills & Proficiency Rating</b></summary>
+  <br />
+
+| Skill | Rating |
+| :--- | :--- |
+| 🔐 **Authentication & Authorization** (JWT, Refresh Token, Policies) | ⭐⭐⭐⭐⭐ |
+| 📡 **SignalR** (Real-time WebSockets) | ⭐⭐⭐⭐⭐ |
+| 📣 **Event-Driven Architecture** (RabbitMQ + MassTransit) | ⭐⭐⭐⭐⭐ |
+| ⚡ **Caching** (Redis) | ⭐⭐⭐⭐⭐ |
+| ⏳ **Background Jobs** (Hangfire) | ⭐⭐⭐⭐ |
+| 💳 **Payment Integration** (Stripe + Webhooks) | ⭐⭐⭐⭐ |
+| 📝 **Logging** (Serilog) | ⭐⭐⭐⭐ |
+| 🐳 **Docker** Containerization | ⭐⭐⭐⭐ |
+| ☁️ **File Upload & Cloud Storage** | ⭐⭐⭐⭐ |
+| 📌 **API Versioning** | ⭐⭐⭐ |
+| 🧪 **Unit Testing** | ⭐⭐⭐ |
+
+</details>
+
 ---
 
 ### 🚀 Featured Work
